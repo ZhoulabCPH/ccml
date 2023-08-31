@@ -21,7 +21,7 @@ install.packages("ccml")
 Or from GitHub:
 ``` r
 library(devtools)
-devtools::install_github("ZhouSunLab-Workshops/ccml")
+devtools::install_github("ZhoulabCPH/ccml")
 ```
 Or install locally：
 ``` r
